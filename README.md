@@ -8,7 +8,7 @@
     
 ##### push image to repo 
 
-    docker tag java-app demo-app:java-1.0
+    docker tag my_java_app discoverdevops/myprodapp:my_java_app-1.0
     
 
 ##############################
