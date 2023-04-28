@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: java-app
-          image: discoverdevops/demo-app:java-1.0
+          image: discoverdevops/myprodapp:my_java_app-1.0
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
